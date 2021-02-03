@@ -10,6 +10,6 @@ node data-compression.js
 
 - Large-items-s3.js
 
-** For Large-items-s3.js make sure you have already created S3 bucket and Go to IAM(users) and add permission to your S3 buckets before running this file
+**For Large-items-s3.js make sure you have already created S3 bucket and Go to IAM(users) and add permission to your S3 buckets before running this file**
 
 node large-items-s3.js
